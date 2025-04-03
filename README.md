@@ -1,18 +1,24 @@
 <meta name="robots" content="noindex">
 
-# NeuraLander by Port 12137
 Welcome to the homepage for our project!
 
-## Testing Data
+> [!NOTE]
+> This page is still under production.
+
+# Contact
+You can contact us by sending an email to <12137@neuralander.dev>.
+
+# Testing Data
 You can find a link to our testing data table [here](https://docs.google.com/spreadsheets/d/1I-Th3O3DXWnaWdb4HGvsLn37kOAO-Q9-bMmvSxF49i0).
 
-## Testing Videos
+# Testing Videos
 Click on the video to go to it.
-### Test 1 (First Drive Test)
+
+## Test 1 (First Drive Test)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6sv-8LKRP5k
 " target="_blank"><img src="http://img.youtube.com/vi/6sv-8LKRP5k/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-### Test 2 (First Drop Test)
+## Test 2 (First Drop Test)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mrkrjZC4gLA
 " target="_blank"><img src="http://img.youtube.com/vi/mrkrjZC4gLA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
@@ -21,14 +27,14 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/2RLr_Oy5QfM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-## CAD Models
-### Case Design
+# CAD Models
+## Case Design
 <img src="assets/images/case_render.png" width="200" alt="Our first CAD design">
 <img src="assets/images/render2.png" width="200" alt="Our second CAD design">
 
 <img src="assets/images/model2.png" width="200" alt="Our third CAD design">
 
-## Robot Pictures
+# Robot Pictures
 <img src="assets/images/IMG_2807.JPG" width="200" alt="A photo of our rover driving in the sand">
 <img src="assets/images/IMG_2809.JPG" width="200" alt="A photo of our rover driving in the sand">
 <img src="assets/images/IMG_7737.jpg" width="200" alt="A photo of our rover driving in the sand">
