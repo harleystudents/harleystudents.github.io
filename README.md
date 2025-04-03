@@ -2,9 +2,6 @@
 
 Welcome to the homepage for our project!
 
-> [!NOTE]
-> This page is still under production.
-
 # Contact
 You can contact us by sending an email to <12137@neuralander.dev>.
 
@@ -29,15 +26,15 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # CAD Models
 ## Case Design
-<img src="assets/images/case_render.png" width="200" alt="Our first CAD design">
-<img src="assets/images/render2.png" width="200" alt="Our second CAD design">
+<img src="assets/images/case_render.png" width="250" alt="Our first CAD design">
+<img src="assets/images/render2.png" width="250" alt="Our second CAD design">
 
-<img src="assets/images/model2.png" width="200" alt="Our third CAD design">
+<img src="assets/images/model2.png" width="250" alt="Our third CAD design">
 
 # Robot Pictures
-<img src="assets/images/IMG_2807.JPG" width="200" alt="A photo of our rover driving in the sand">
-<img src="assets/images/IMG_2809.JPG" width="200" alt="A photo of our rover driving in the sand">
-<img src="assets/images/IMG_7737.jpg" width="200" alt="A photo of our rover driving in the sand">
+<img src="assets/images/IMG_2807.JPG" width="250" alt="A photo of our rover driving in the sand">
+<img src="assets/images/IMG_2809.JPG" width="250" alt="A photo of our rover driving in the sand">
+<img src="assets/images/IMG_7737.jpg" width="250" alt="A photo of our rover driving in the sand">
 
 # Other Pages
 [Here](https://sites.google.com/harleystudents.org/port12137) is a link to our other page. You will find more information there.
