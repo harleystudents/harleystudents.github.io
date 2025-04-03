@@ -1,5 +1,4 @@
 <meta name="robots" content="noindex">
-<meta http-equiv="refresh" content="0; url=https://sites.google.com/harleystudents.org/port12137"/>
 
 # NeuraLander by Port 12137
 Welcome to the homepage for our project!
@@ -23,8 +22,16 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## CAD Models
+### Case Design
+<img src="assets/images/case_render.png" width="200" alt="Our first CAD design">
+<img src="assets/images/render2.png" width="200" alt="Our second CAD design">
+
+<img src="assets/images/model2.png" width="200" alt="Our third CAD design">
 
 ## Robot Pictures
+<img src="assets/images/IMG_2807.JPG" width="200" alt="A photo of our rover driving in the sand">
+<img src="assets/images/IMG_2809.JPG" width="200" alt="A photo of our rover driving in the sand">
+<img src="assets/images/IMG_7737.jpg" width="200" alt="A photo of our rover driving in the sand">
 
 # Other Pages
 [Here](https://sites.google.com/harleystudents.org/port12137) is a link to our other page. You will find more information there.
