@@ -1,3 +1,5 @@
-theme: jekyll-theme-primer
+theme: jekyll-theme-minima
+minima:
+  skin: solarized
 title: NeuraLander
 description: The hompage for NeuraLander, a project by Port 12137
